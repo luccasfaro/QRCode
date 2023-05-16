@@ -7,11 +7,11 @@
     <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://luccasfaro.github.io/QRCode/" target="_blank">View Site</a>
+    <a href="https://luccasfaro.github.io/qr-code-component/" target="_blank">View Site</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/luccasfaro/QRCode/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/luccasfaro/qr-code-component/issues" target="_blank">Report Bug</a>
     &nbsp;·&nbsp;
-    <a href="https://github.com/luccasfaro/QRCode/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/luccasfaro/qr-code-component/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -52,7 +52,7 @@
 - |||
   | :----- | :----- |
   | Solution URL: | [Responsive page with HTML and CSS](https://www.frontendmentor.io/solutions/html-e-css-bsico-com-responsividade-para-mobile-zcumR9mRwT) |
-  | Live Site URL: | [https://luccasfaro.github.io/QRCode/](https://luccasfaro.github.io/QRCode/) |
+  | Live Site URL: | [https://luccasfaro.github.io/QRCode/](https://luccasfaro.github.io/qr-code-component/) |
   |||
 
 
